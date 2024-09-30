@@ -3,7 +3,7 @@ Project Title: Online Bookstore Data Analysis
 
 Tools and Technologies:
 
-       * Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+      * Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
       * Jupyter Notebooks
       * Plotly/Dash (for interactive visualizations)
       * Database -MYSQL
